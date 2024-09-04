@@ -1,0 +1,2 @@
+# hpdenalhaberi
+e-gazete
